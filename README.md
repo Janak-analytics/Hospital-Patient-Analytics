@@ -94,8 +94,8 @@ revenue cycle management.
 ### Insurance Provider Analysis
 ![SQL Insurance](sql/sql_insurance.png)
 
-### Test Results Analysis
-! [SQL_test](sql/sql_test_results.png)
+### test Results Analysis
+! [SQL_test_results](sql/sql_test_results.png)
 
 ---
 
@@ -141,6 +141,3 @@ Data Analytics Portfolio Project
 April 2026  
 Data Analytics Portfolio Project  
 April 2026  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](your-github-url)
