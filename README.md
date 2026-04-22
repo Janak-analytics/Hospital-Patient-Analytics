@@ -94,8 +94,8 @@ revenue cycle management.
 ### Insurance Provider Analysis
 ![SQL Insurance](sql/sql_insurance.png)
 
-### Test Results Analysis
-! [SQL_test_results](sql/sql_test_results.png)
+### Admission by Type
+![SQL_Admission](sql/sql_admission_type.png)
 
 ---
 
