@@ -31,6 +31,8 @@ revenue cycle management.
 
 ---
 
+**[View Detailed Insights](INSIGHTS.md)**
+
 
 ---
 
