@@ -10,7 +10,7 @@
 ## 📊 Dashboard Preview
 
 ### Executive Overview
-![Overview](powerbi/dashboard_overview.pngg)
+![Overview](powerbi/dashboard_overview.pngg.png)
 
 ### Clinical Analysis
 ![Clinical](powerbi/dashboard_clinical.png)
@@ -95,7 +95,7 @@ revenue cycle management.
 ![SQL Insurance](sql/sql_insurance.png)
 
 ### Test Results Analysis
-! [SQL_Test](sql/sql_test_results.png)
+! [SQL_Test](sql/sql_Test_results.png)
 
 ---
 
