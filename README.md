@@ -95,7 +95,7 @@ revenue cycle management.
 ![SQL Insurance](sql/sql_insurance.png)
 
 ### Test Results Analysis
-! [SQL_Test](sql/sql_Test_results.png)
+! [SQL_test](sql/sql_test_results.png)
 
 ---
 
